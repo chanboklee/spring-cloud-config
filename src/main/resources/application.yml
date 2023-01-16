@@ -13,7 +13,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/chanboklee/spring-cloud-config.git
+          uri: https://github.com/chanboklee/spring-cloud-configuration.git
 
 
 management:
